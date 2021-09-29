@@ -1,0 +1,9 @@
+body { 
+    background-color: #957976;
+}
+hr {
+border-style: none none dotted none;
+width: 30%;
+border-width: 10px;
+}
+h1 {font-family: cursive;}
